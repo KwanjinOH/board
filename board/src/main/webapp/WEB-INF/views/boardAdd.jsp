@@ -18,6 +18,7 @@
  
 <script>
 	//git 테스트
+	//gids
     $(document).ready(function(){
     //    alert('jquery test');
     /* 입력폼 유효성 관련 요구사항
