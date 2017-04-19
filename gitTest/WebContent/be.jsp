@@ -7,15 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-afafafaf中予中予中中予中予中予
-ssssss
-eeeeee
-ssssss
-bbbbbb
-aaaaaa
-bbbbbb
-yyyyyy
-
+sssssssssssss
 
 </body>
 </html>
