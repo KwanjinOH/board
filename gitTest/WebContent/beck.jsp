@@ -9,6 +9,7 @@
 <body>
 <script>
 	document.write(5*8);
+	
 </script>
 </body>
 </html>
